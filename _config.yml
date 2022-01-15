@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Chiyoung Jung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Chiyoung is a web developer who's interested in all kinds of cool stuffs. Main tech stacks are **Java, Spring Framework, JavaScript, HTML, CSS**."
+  location         : "Seoul, South Korea"
+  email            : "chiyoung0011@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
